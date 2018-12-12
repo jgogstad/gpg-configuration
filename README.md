@@ -1,2 +1,3 @@
-# gpg-configuration
-Configuration files for GNU Privacy Guard
+# GPG Configuration
+
+Annotated configuration files for GNU Privacy Guard
