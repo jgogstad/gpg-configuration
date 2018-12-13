@@ -2,4 +2,4 @@
 
 Annotated configuration files for GNU Privacy Guard
 
-Place in `~/.gnupg`.
+Replace fingerprint of public key in `gpg.conf` and place all files in `~/.gnupg`
